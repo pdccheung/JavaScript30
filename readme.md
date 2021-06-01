@@ -6,4 +6,6 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
-A fork of the JS30 course by Wes Bos
+A fork of the JS30 course by Wes Bos.
+
+For the month of June, I'll be coding along with the JS30 course, to improve my skills.
